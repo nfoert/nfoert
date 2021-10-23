@@ -1,8 +1,9 @@
-# Nfoert
+------------------
+      Nfoert
+------------------
 
-I program in: Python
+I'm thirteen years old.
 
-My main projects: 
+Main project on GitHub: Jade
 
-Jade > A virtual assistant for desktop
-
+Jade is an virtual assistant for desktop. Not currently purchaseable.

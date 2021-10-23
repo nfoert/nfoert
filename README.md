@@ -1,8 +1,9 @@
-------------------
-      Nfoert
-------------------
+
+|      Nfoert      |
 
 I'm thirteen years old.
+
+Programming Languages: A little HTML and CSS. I've done a tiny bit of Swift in Xcode. Python is the main languge I'm using right now.
 
 Main project on GitHub: Jade
 

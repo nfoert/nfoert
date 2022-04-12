@@ -1,7 +1,6 @@
 
-+------------------+
-|  ~   Nfoert   ~  |
-+------------------+
+
+[ nfoert ]
 
 I'm fourteen years old.
 

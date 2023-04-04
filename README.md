@@ -2,11 +2,12 @@
 
 ![Header](./github-header-image.png)
 
-I'm a completely self-taught programmer in Python. I started my programming journey via [Scratch](https://scratch.mit.edu) and Java Script on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming) I then moved on to [Code.org's App Lab](https://code.org/educate/applab) before introducing myself to [Python](https://www.python.org/) via a [Raspberry Pi](https://www.raspberrypi.com/). I soon moved on to Python on an actual computer and that's how Jade Software came about. I had an idea for a project and I kept working on it, learning a bunch of skills at the same time. I've been working with python for almost two years.
+I'm a completely self-taught programmer in Python. I started my programming journey via [Scratch](https://scratch.mit.edu) and Java Script on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming) I then moved on to [Code.org's App Lab](https://code.org/educate/applab) before introducing myself to [Python](https://www.python.org/) via a [Raspberry Pi](https://www.raspberrypi.com/). I soon moved on to Python on an actual computer and that's how Jade Software came about. I had an idea for a project and I kept working on it, learning a bunch of skills at the same time. I've been working with Python for almost two years.
 
 I learn by doing, but instead of doing multiple big projects I've just spent years on Jade Software and went at it at so many different angles from client side UI to frontend and backend web developemet.
 
-I've also experimented with Swift, I learned CSS and HTML for the Jade Website and my blog, and I've done a bit of work with Unreal Engine 5.
+I've also experimented with Swift, I learned CSS and HTML for the Jade Website and my blog, and I've done a bit of work with Unreal Engine 5. 
+I've made a macro pad with a Raspberry Pi Pico W, hosted a minecraft server on a RPI 4, and installed CFW on a Nintendo 3DS.
 
 (I also know enough markdown to make this README :smile:)
 

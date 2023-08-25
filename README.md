@@ -8,6 +8,7 @@ class nfoert:
         self.name = "nfoert"
         self.languages = ["Python", "HTML", "CSS", "JavaScript", "C++"]
         self.jade_software = "https://nfoert.pythonanywhere.com/jadesite"
+        self.circles = "https://circles.pythonanywhere.com"
         self.portfolio = "https://nfoert.github.io"
         self.youtube = "https://youtube.com/@nfoert"
         self.twitch = "https://twitch.tv/nfoert"

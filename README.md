@@ -9,6 +9,8 @@ class nfoert:
         self.languages = ["Python", "HTML", "CSS", "JavaScript", "C++"]
         self.jade_software = "https://nfoert.pythonanywhere.com/jadesite"
         self.portfolio = "https://nfoert.github.io"
+        self.youtube = "https://youtube.com/@nfoert"
+        self.twitch = "https://twitch.tv/nfoert"
     
     def hello(name):
         print(f"Hello, {name}. I'm nfoert!")
@@ -27,6 +29,14 @@ I've also experimented with [Swift](https://developer.apple.com/swift/), I learn
 I've made a macro pad with a Raspberry Pi Pico W, hosted a minecraft server on a RPI 4, installed CFW on a Nintendo 3DS, created a [portfolio site](https://nfoert.github.io/), made a [Minecraft modpack](https://modrinth.com/modpack/nfoerts-modpack), a [browser extension](https://addons.mozilla.org/en-US/firefox/addon/jade-new-tab/), and created a cataloging system with a Raspberry Pi, Google Sheets and anything with a UPC.
 
 (I also know enough markdown to make this README :smile:)
+
+## Circles
+Circles is my open source, decentralized social media platform where users can move and interact within physical spaces (circles). Any user can create a Circle, and sub Circles within those. Circles is trying to move away from the way social media is now, a large wall of text and the real people behind those posts are hidden away. Circles' goal is to imbrace each person for who they are and allow them to connect with other people that share intrests and passions.
+
+Circles is currently in a very early stage. [The repository is here](https://github.com/nfoert/circles)
+The current location of the Circles website is [here](https://circles.pythonanywhere.com). Once I've got some more systems up and running, and I've got GitHub sponsors setup, users will be able to get added to the Circles whitelist by supporting me. Once I can afford servers and a domain, I'll end the closed alpha and original supporters will be given a badge.
+
+I'd appreciate your intrest in my project.
 
 ## Jade Software
 Jade Software is a project I've spent two years on. It's a suite of productivity applications starting with the Jade Launcher, which is the main part which keeps itself updated, and allows you to update and download other apps like Jade Assistant or Jade Apps.

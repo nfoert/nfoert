@@ -22,6 +22,10 @@ class nfoert:
 <p align="center">I'm a programmer in Python, HTML, CSS, JavaScript and C++. I care a lot about open source software, right to repair, linux, and federated social networks. I'm self taught, and I'm learning to make applications and software that has a real world use and reach. </p>
 <hr>
 
+[![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert)
+
+<hr>
+
 I started my programming journey via [Scratch](https://scratch.mit.edu) and Java Script on [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming). I then moved on to [Code.org's App Lab](https://code.org/educate/applab) before introducing myself to [Python](https://www.python.org/) via a [Raspberry Pi](https://www.raspberrypi.com/). I soon moved on to Python on an actual computer and that's how [Jade Software](https://nfoert.pythonanywhere.com/jadesite) began. I had an idea for a project and I kept working on it, learning a bunch of skills at the same time. I've been working with Python for almost two years while experimenting with other stuff here and there.
 
 I learn by doing, and have been using Jade Software as a way to experiment with many different aspects of fully formed desktop applications.

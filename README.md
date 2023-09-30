@@ -12,6 +12,7 @@ class nfoert:
         self.portfolio = "https://nfoert.github.io"
         self.youtube = "https://youtube.com/@nfoert"
         self.twitch = "https://twitch.tv/nfoert"
+        self.discord = "nfoert"
         self.linktree = "https://linktr.ee/nfoert"
     
     def hello(name):

@@ -51,11 +51,8 @@ I've also experimented with Unreal Engine 5, created a macro pad with a Raspberr
 [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
 <hr>
+
+Thanks to Hacktoberfest for the [assets](https://hacktoberfest.com/_next/static/media/event-kit.c62668ad.zip).
 
 

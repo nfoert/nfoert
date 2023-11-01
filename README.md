@@ -3,9 +3,9 @@
 ![Header](./github-header-image.png)
 <hr>
 
-<!-- [![Hacktoberfest](./hacktoberfest-10.png)](https://hacktoberfest.com/) -->
+<!-- [![Hacktoberfest](./hacktoberfest-10.png)](https://hacktoberfest.com/)
 
-<hr>
+<hr> -->
 <br>
 
 ```python

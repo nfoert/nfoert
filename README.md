@@ -3,7 +3,7 @@
 ![Header](./github-header-image.png)
 <hr>
 
-[![Hacktoberfest](./hacktoberfest-10.png)](https://hacktoberfest.com/)
+<!-- [![Hacktoberfest](./hacktoberfest-10.png)](https://hacktoberfest.com/) -->
 
 <hr>
 <br>
@@ -53,6 +53,6 @@ I've also experimented with Unreal Engine 5, created a macro pad with a Raspberr
 
 <hr>
 
-Thanks to Hacktoberfest for the [assets](https://hacktoberfest.com/_next/static/media/event-kit.c62668ad.zip).
+<!-- Thanks to Hacktoberfest for the [assets](https://hacktoberfest.com/_next/static/media/event-kit.c62668ad.zip). -->
 
 

@@ -37,7 +37,7 @@ class nfoert:
 <p>
 I'm <b>nfoert</b>, a programmer from USA. I care a lot about open source software, self hosting, and right to repair. I enjoy tinkering and experimenting with different aspects of technology, and I'm learning to create applications that have a helpful and functional use to the open source community.
 
-So far, I've mostly learned higher-level languages like Python and JavaScript, but I'd like to spend some time soon to learn languages like Rust or C++.
+I do a lot of work with web development and Django, I know Python, JavaScript, and C++, and I'd like to learn some more other lower level languages like Rust.
 
 I've also experimented with Unreal Engine 5, created a macro pad with a Raspberry Pi Pico, I self host a personal Minecraft server, photo storage solution, Home Assistant, and I do other fun tinkery things.
 </p>

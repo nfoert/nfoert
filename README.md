@@ -24,7 +24,7 @@ class nfoert:
 
         self.links = {
             "Mastodon": "mastodon.social/@nfoert"
-            "Instagram": "instagram.com/nfoert23,
+            "Instagram": "instagram.com/nfoert23",
             "YouTube": "youtube.com/@nfoert",
             "Twitch": "twitch.tv/nfoert",
             "Discord": "@nfoert"

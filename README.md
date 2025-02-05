@@ -1,71 +1,47 @@
+<div style="float: left; display: flex; align-items: center; width: 100%; margin-bottom: 30px;">
+    <img src="./repo/images/profile-rounded.png" style="border-radius: 27%; border: 3px solid gray; width: 150px; height: 150px; margin-right: 20px;"/>
+    <div style="display: flex; flex-direction: column;">
+        <p style="font-size: 24px; line-height: 30px; width: 400px"><strong>nfoert</strong></p>
+        <p style="font-size: 18px; line-height: 20px; width: 400px; margin-left: 10px;">Full stack open source web developer, plus Linux and self hosting, and other random things</p>
+        <div style="display: flex; flex-direction: row; align-items: left; margin-left: 10px;">
+            <a href="https://github.com/nfoert" style="margin-right: 4px; margin-left: 4px"><strong>GitHub</strong></a> | 
+            <a href="https://github.com/nfoert?tab=repositories&type=source" style="margin-right: 4px; margin-left: 4px"><strong>Repositories</strong></a> | 
+            <a href="https://nfoert.github.io" style="margin-right: 4px; margin-left: 4px"><strong>Portfolio</strong></a> | 
+            <a href="https://mastodon.social/@nfoert" style="margin-right: 4px; margin-left: 4px"><strong>Mastodon</strong></a>
+        </div>
+    </div>
+</div>
 
-
-![Header](./github-header-image.png)
-<hr>
-
-<!-- [![Hacktoberfest](./hacktoberfest-10.png)](https://hacktoberfest.com/)
-
-<hr> -->
-<br>
-
-```python
-class nfoert:
-    def __init__(self):
-        self.name = "nfoert"
-        self.languages = ["Python", "HTML", "CSS", "JavaScript", "C++"]
-        self.portfolio = "https://nfoert.github.io"
-
-        self.projects = {
-            "Cardie": "github.com/nfoert/cardie",
-            "Circles": "github.com/nfoert/circles",
-            "Jade Software": "github.com/nfoert/jadelauncher",
-            "And more...": "github.com/nfoert"
-        }
-
-        self.links = {
-            "Mastodon": "mastodon.social/@nfoert"
-            "Instagram": "instagram.com/nfoert23,
-            "YouTube": "youtube.com/@nfoert",
-            "Twitch": "twitch.tv/nfoert",
-            "Discord": "@nfoert"
-        }
-    
-    def hello(name):
-        print(f"Hello, {name}. I'm nfoert!")
-  
-```
-
-<h1>Hello there! 👋</h1>
-<p>
-I'm <b>nfoert</b>, a programmer from the USA. I care a lot about open source software, self hosting, and right to repair. I enjoy tinkering and experimenting with different aspects of technology, and I'm learning to create applications that have a helpful and functional use to the open source community.
-
-I do a lot of work with web development and Django, I know Python, JavaScript, and C++, and I'd like to learn some more other lower level languages like Rust.
-
-My main project right now is a business card designer platform called [Cardie](https://github.com/nfoert/cardie).
-
-I've also created a open source social media application [Circles](https://github.com/nfoert/circles), used CircuitPython to put together some programs for [making smart home devices](https://github.com/nfoert/pico-smart-home) out of Raspberry Pi Pico's, experimented with [Eel](https://github.com/python-eel/Eel) to make a [Spotify frontend](https://github.com/nfoert/fancy-spotify-gui) and I have some [dotfiles](https://github.com/nfoert/niri-dotfiles) for the Wayland compositor, [Niri](https://github.com/YaLTeR/niri).
-
-I've also experimented with Unreal Engine 5, created a macro pad with a Raspberry Pi Pico, I self host a personal Minecraft server, Immich, Home Assistant, and lots of other little projects.
-</p>
+<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience in <strong>Linux</strong>, <strong>git</strong> and <strong>GitHub</strong>, <strong>docker</strong>, <strong>self hosting</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and learn some more lower level languages like Rust</p>
 
 <br>
-<p align="center">
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,blender,codepen,django,fediverse,mastodon,linux,md,qt,raspberrypi,stackoverflow,threejs,cpp,docker,godot,obsidian,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,blender,codepen,django,fediverse,mastodon"/>
+    <img src="https://skillicons.dev/icons?i=linux,md,qt,raspberrypi,stackoverflow,threejs,cpp,docker,godot,obsidian,tailwind"/>
   </a>
-</p>
+</div>
+
+## Projects
+- [**Open Scouting**](https://github.com/FRC-Team3484/open-scouting) - An open source application for easier scouting at First Robotics competitions 
+- [**nfoert.github.io**](https://github.com/nfoert/nfoert.github.io) - My portfolio site
+- [**Cardie**](https://github.com/nfoert/cardie) -  An open source business card designer and sharing platform 
+- [**md-to-html**](https://github.com/nfoert/md-to-html) -  A simple script which turns a markdown file into html with support for headers and footers 
+- [**niri-dotfiles**](https://github.com/nfoert/niri-dotfiles) - My dotfiles for niri
+- [**pico-smart-home**](https://github.com/nfoert/pico-smart-home) - A collection of scripts for setting up Raspberry Pi Pico W as smart home devices and sensors.
+- [**Circles**](https://github.com/nfoert/circles) - Circles is an open source, decentralized social network that allows users to move and interact within physical spaces
+- [**And more...**](https://github.com/nfoert?tab=repositories)
+
 
 <br>
 
-<p align="center">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark" alt="nfoert's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark" alt="nfoert's GitHub top languages">
 
-  [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert)
-
-
-  ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats)
+  <!-- [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert) -->
+  <!-- ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark) -->
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats) -->
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-</p>
-
-<!-- Thanks to Hacktoberfest for the [assets](https://hacktoberfest.com/_next/static/media/event-kit.c62668ad.zip). -->
+</div>

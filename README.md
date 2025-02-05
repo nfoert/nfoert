@@ -5,7 +5,7 @@
     </td>
     <td>
       <strong>nfoert</strong><br>
-      Full stack open source web developer, plus Linux and self-hosting, and other random things.<br><br>
+      Full stack open source web developer, plus Linux and self-hosting, and other various things<br><br>
       <a href="https://github.com/nfoert"><strong>GitHub</strong></a> | 
       <a href="https://github.com/nfoert?tab=repositories&type=source"><strong>Repositories</strong></a> | 
       <a href="https://nfoert.github.io"><strong>Portfolio</strong></a> | 
@@ -27,6 +27,18 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark" alt="nfoert's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark" alt="nfoert's GitHub top languages">
+
+  <!-- [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert) -->
+  <!-- ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark) -->
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats) -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
+
 ## Projects
 - [**Open Scouting**](https://github.com/FRC-Team3484/open-scouting) - An open source application for easier scouting at First Robotics competitions 
 - [**nfoert.github.io**](https://github.com/nfoert/nfoert.github.io) - My portfolio site
@@ -36,15 +48,3 @@
 - [**pico-smart-home**](https://github.com/nfoert/pico-smart-home) - A collection of scripts for setting up Raspberry Pi Pico W as smart home devices and sensors.
 - [**Circles**](https://github.com/nfoert/circles) - Circles is an open source, decentralized social network that allows users to move and interact within physical spaces
 - [**And more...**](https://github.com/nfoert?tab=repositories)
-
-<br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark" alt="nfoert's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark" alt="nfoert's GitHub top languages">
-
-  <!-- [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert) -->
-  <!-- ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark) -->
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats) -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>

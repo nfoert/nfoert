@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./repo/images/profile-rounded.png"/ width=250>
+      <img src="./repo/images/profile-rounded.png" width=200>
     </td>
     <td>
       <strong>nfoert</strong><br>
@@ -14,8 +14,9 @@
   </tr>
 </table>
 
+<br>
 
-<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience in <strong>Linux</strong>, <strong>git</strong> and <strong>GitHub</strong>, <strong>docker</strong>, <strong>self hosting</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and learn some more lower level languages like Rust</p>
+<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience in <strong>Linux</strong>, <strong>git</strong> and <strong>GitHub</strong>, <strong>docker</strong>, <strong>self hosting</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and some more lower level languages like Rust</p>
 
 <br>
 
@@ -35,7 +36,6 @@
 - [**pico-smart-home**](https://github.com/nfoert/pico-smart-home) - A collection of scripts for setting up Raspberry Pi Pico W as smart home devices and sensors.
 - [**Circles**](https://github.com/nfoert/circles) - Circles is an open source, decentralized social network that allows users to move and interact within physical spaces
 - [**And more...**](https://github.com/nfoert?tab=repositories)
-
 
 <br>
 

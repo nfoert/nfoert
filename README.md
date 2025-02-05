@@ -1,16 +1,19 @@
-<div style="float: left; display: flex; align-items: center; width: 100%; margin-bottom: 30px;">
-    <img src="./repo/images/profile-rounded.png" style="border-radius: 27%; border: 3px solid gray; width: 150px; height: 150px; margin-right: 20px;"/>
-    <div style="display: flex; flex-direction: column;">
-        <p style="font-size: 24px; line-height: 30px; width: 400px"><strong>nfoert</strong></p>
-        <p style="font-size: 18px; line-height: 20px; width: 400px; margin-left: 10px;">Full stack open source web developer, plus Linux and self hosting, and other random things</p>
-        <div style="display: flex; flex-direction: row; align-items: left; margin-left: 10px;">
-            <a href="https://github.com/nfoert" style="margin-right: 4px; margin-left: 4px"><strong>GitHub</strong></a> | 
-            <a href="https://github.com/nfoert?tab=repositories&type=source" style="margin-right: 4px; margin-left: 4px"><strong>Repositories</strong></a> | 
-            <a href="https://nfoert.github.io" style="margin-right: 4px; margin-left: 4px"><strong>Portfolio</strong></a> | 
-            <a href="https://mastodon.social/@nfoert" style="margin-right: 4px; margin-left: 4px"><strong>Mastodon</strong></a>
-        </div>
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./repo/images/profile-rounded.png"/ width=250>
+    </td>
+    <td>
+      <strong>nfoert</strong><br>
+      Full stack open source web developer, plus Linux and self-hosting, and other random things.<br><br>
+      <a href="https://github.com/nfoert"><strong>GitHub</strong></a> | 
+      <a href="https://github.com/nfoert?tab=repositories&type=source"><strong>Repositories</strong></a> | 
+      <a href="https://nfoert.github.io"><strong>Portfolio</strong></a> | 
+      <a href="https://mastodon.social/@nfoert"><strong>Mastodon</strong></a>
+    </td>
+  </tr>
+</table>
+
 
 <p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience in <strong>Linux</strong>, <strong>git</strong> and <strong>GitHub</strong>, <strong>docker</strong>, <strong>self hosting</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and learn some more lower level languages like Rust</p>
 

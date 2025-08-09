@@ -5,7 +5,7 @@
     </td>
     <td>
       <strong>nfoert</strong><br>
-      Full stack open source web developer, plus Linux and self-hosting, and other various things<br><br>
+      I'm a full stack web developer who cares about open source and likes to experiment and tinker with lots of other things<br><br>
       <a href="https://github.com/nfoert"><strong>GitHub</strong></a> | 
       <a href="https://github.com/nfoert?tab=repositories&type=source"><strong>Repositories</strong></a> | 
       <a href="https://nfoert.github.io"><strong>Portfolio</strong></a> | 
@@ -16,14 +16,14 @@
 
 <br>
 
-<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience in <strong>Linux</strong>, <strong>git</strong> and <strong>GitHub</strong>, <strong>docker</strong>, <strong>self hosting</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and some more lower level languages like Rust</p>
+<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience with <strong>Linux</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>docker</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and some more lower level languages like Rust. I also do a lot of <strong>3D printing</strong>, and experiment with <strong>self hosting</strong>.</p>
 
 <br>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,blender,codepen,django,fediverse,mastodon"/>
-    <img src="https://skillicons.dev/icons?i=linux,md,qt,raspberrypi,stackoverflow,threejs,cpp,docker,godot,obsidian,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,blender,codepen,django,fediverse"/>
+    <img src="https://skillicons.dev/icons?i=linux,md,qt,raspberrypi,cpp,docker,godot,obsidian,tailwind,mastodon"/>
   </a>
 </div>
 
@@ -40,10 +40,10 @@
 </div>
 
 ## Projects
-- [**Open Scouting**](https://github.com/FRC-Team3484/open-scouting) - An open source application for easier scouting at First Robotics competitions 
+- [**Open Scouting**](https://github.com/FRC-Team3484/open-scouting) - An open source application for easier scouting at FIRST Robotics competitions 
 - [**nfoert.github.io**](https://github.com/nfoert/nfoert.github.io) - My portfolio site
-- [**Cardie**](https://github.com/nfoert/cardie) -  An open source business card designer and sharing platform 
-- [**md-to-html**](https://github.com/nfoert/md-to-html) -  A simple script which turns a markdown file into html with support for headers and footers 
+- [**Cardie**](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform 
+- [**md-to-html**](https://github.com/nfoert/md-to-html) - A simple script which turns a markdown file into html with support for headers and footers 
 - [**niri-dotfiles**](https://github.com/nfoert/niri-dotfiles) - My dotfiles for niri
 - [**pico-smart-home**](https://github.com/nfoert/pico-smart-home) - A collection of scripts for setting up Raspberry Pi Pico W as smart home devices and sensors.
 - [**Circles**](https://github.com/nfoert/circles) - Circles is an open source, decentralized social network that allows users to move and interact within physical spaces

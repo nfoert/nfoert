@@ -8,7 +8,7 @@
       I'm a full stack web developer who cares about open source and likes to experiment and tinker with lots of other things<br><br>
       <a href="https://github.com/nfoert"><strong>GitHub</strong></a> | 
       <a href="https://github.com/nfoert?tab=repositories&type=source"><strong>Repositories</strong></a> | 
-      <a href="https://nfoert.github.io"><strong>Portfolio</strong></a> | 
+      <a href="https://nfoert.dev"><strong>Portfolio</strong></a> | 
       <a href="https://mastodon.social/@nfoert"><strong>Mastodon</strong></a>
     </td>
   </tr>

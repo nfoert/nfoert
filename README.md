@@ -21,17 +21,16 @@
 <br>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,blender,codepen,django,fediverse"/>
-    <img src="https://skillicons.dev/icons?i=linux,md,qt,raspberrypi,cpp,docker,godot,obsidian,tailwind,mastodon"/>
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,html,css,javascript,cpp,java,markdown">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,digitalocean,vscodium,archlinux,docker,godot,mastodon">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=django,tailwindcss,alpinejs,pocketbase,svelte,vite,vitepwa,fastapi">
 </div>
-
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark" alt="nfoert's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark" alt="nfoert's GitHub top languages">
+
 
   <!-- [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert) -->
   <!-- ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark) -->

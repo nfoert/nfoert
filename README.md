@@ -1,24 +1,16 @@
-<table>
-  <tr>
-    <td>
-      <img src="./repo/images/profile-rounded.png" width=200>
-    </td>
-    <td>
-      <strong>nfoert</strong><br>
-      I'm a full stack web developer who cares about open source and likes to experiment and tinker with lots of other things<br><br>
-      <a href="https://github.com/nfoert"><strong>GitHub</strong></a> | 
-      <a href="https://github.com/nfoert?tab=repositories&type=source"><strong>Repositories</strong></a> | 
-      <a href="https://nfoert.dev"><strong>Portfolio</strong></a> | 
-      <a href="https://mastodon.social/@nfoert"><strong>Mastodon</strong></a>
-    </td>
-  </tr>
-</table>
+![profile picture](/repo/images/profile-circle-tiny.png)
+# Hello, I'm nfoert!
 
-<br>
+I'm a full stack web developer/software engineer who cares about open source. I like to experiment and tinker with all sorts of things.
 
-<p>I know <strong>Python</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>C++</strong>. I have experience with <strong>Linux</strong>, <strong>git</strong>, <strong>GitHub</strong>, <strong>docker</strong>, <strong>Tailwind.css</strong> and <strong>Alpine.js</strong>. I'm hoping to learn things like Android development and some more lower level languages like Rust. I also do a lot of <strong>3D printing</strong>, and experiment with <strong>self hosting</strong>.</p>
+- [GitHub](https://github.com/nfoert)
+- [Repositories](https://github.com/nfoert?tab=repositories&)
+- [Portfolio](https://nfoert.dev)
+- [Mastodon](https://mastodon.social/@nfoert)
 
-<br>
+I know **Python**, **HTML**, **JavaScript**, **TypeScript**, and **C++**. I daily drive **Linux** (I use arch btw), and have experience with **Git**, **Docker**, **Tailwind.css**, **Svelte** and **SvelteKit**. I enjoy 3D printing, playing games, and experimenting with self hosting. I hope to learn some lower level languages like ruse, and try some mobile app development someday.
+
+---
 
 <div align="center">
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,html,css,javascript,cpp,java,markdown">
@@ -28,19 +20,21 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark" alt="nfoert's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark" alt="nfoert's GitHub top languages">
 
+  [![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats)
+  [![nfoert's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- [![An image of @nfoert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nfoert)](https://holopin.io/@nfoert) -->
-  <!-- ![nfoert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfoert&show_icons=true&theme=dark) -->
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nfoert&theme=dark)](https://git.io/streak-stats) -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfoert&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
+---
+
 ## Projects
+
 - [**Open Scouting**](https://github.com/FRC-Team3484/open-scouting) - An open source application for easier scouting at FIRST Robotics competitions 
 - [**nfoert.github.io**](https://github.com/nfoert/nfoert.github.io) - My portfolio site
+- [**DMS Desktop Countdown**](https://github.com/nfoert/dms-desktop-countdown) -  A simple plugin for Dank Material Shell for displaying desktop widget countdowns 
+- [**DMS Framework Battery**](https://github.com/nfoert/dms-framework-battery) - Dank Material Shell battery widget, with support for changing the charge limit on Framework laptops  
 - [**Cardie**](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform 
 - [**md-to-html**](https://github.com/nfoert/md-to-html) - A simple script which turns a markdown file into html with support for headers and footers 
 - [**niri-dotfiles**](https://github.com/nfoert/niri-dotfiles) - My dotfiles for niri
